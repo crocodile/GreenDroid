@@ -33,5 +33,3 @@ public class AboutActivity extends GDActivity {
     }
     
 }
-
-//Ignore this text
